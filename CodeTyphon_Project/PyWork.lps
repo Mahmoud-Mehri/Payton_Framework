@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="13">
+      <Unit0>
+        <Filename Value="PyWork.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="74" Y="10"/>
+        <UsageCount Value="203"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainUnit"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="41" Y="9"/>
+        <UsageCount Value="203"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="mainthreadunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="33" Y="76"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="dmunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DM"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="DMUnit"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="19"/>
+        <CursorPos X="38" Y="16"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="newmoduleunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="NewModuleFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="NewModuleUnit"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="53"/>
+        <CursorPos X="58" Y="58"/>
+        <UsageCount Value="217"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="AsistantUnit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="51" Y="6"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="events.pas"/>
+        <UnitName Value="Events"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="47"/>
+        <CursorPos X="37" Y="8"/>
+        <UsageCount Value="172"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1671"/>
+        <CursorPos X="17" Y="1682"/>
+        <UsageCount Value="3"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="193"/>
+        <CursorPos X="23" Y="205"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="modulethread.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ModuleThread"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="8"/>
+        <CursorPos X="25" Y="16"/>
+        <UsageCount Value="78"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="sniffthread.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SniffThread"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="84"/>
+        <CursorPos X="60" Y="97"/>
+        <UsageCount Value="70"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\fcl-base\src\syncobjs.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3"/>
+        <CursorPos X="54" Y="62"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\threadh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="21"/>
+        <CursorPos X="49" Y="30"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="AsistantUnit.pas"/>
+        <Caret Line="53" Column="19" TopLine="43"/>
+      </Position1>
+      <Position2>
+        <Filename Value="modulethread.pas"/>
+        <Caret Line="24" Column="31" TopLine="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="AsistantUnit.pas"/>
+        <Caret Line="297" Column="11" TopLine="275"/>
+      </Position3>
+      <Position4>
+        <Filename Value="AsistantUnit.pas"/>
+        <Caret Line="50" Column="15" TopLine="39"/>
+      </Position4>
+      <Position5>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="334" Column="60" TopLine="330"/>
+      </Position5>
+      <Position6>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="100" Column="49" TopLine="89"/>
+      </Position6>
+      <Position7>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="134" Column="57" TopLine="118"/>
+      </Position7>
+      <Position8>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="208" Column="46" TopLine="330"/>
+      </Position8>
+      <Position9>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="3" Column="21"/>
+      </Position9>
+      <Position10>
+        <Filename Value="AsistantUnit.pas"/>
+        <Caret Line="299" Column="11" TopLine="281"/>
+      </Position10>
+      <Position11>
+        <Filename Value="AsistantUnit.pas"/>
+        <Caret Line="292" TopLine="281"/>
+      </Position11>
+      <Position12>
+        <Filename Value="AsistantUnit.pas"/>
+        <Caret Line="294" Column="55" TopLine="281"/>
+      </Position12>
+      <Position13>
+        <Filename Value="modulethread.pas"/>
+        <Caret Line="27" Column="18" TopLine="22"/>
+      </Position13>
+      <Position14>
+        <Filename Value="modulethread.pas"/>
+        <Caret Line="119" Column="36" TopLine="100"/>
+      </Position14>
+      <Position15>
+        <Filename Value="sniffthread.pas"/>
+        <Caret Line="133" Column="11" TopLine="112"/>
+      </Position15>
+      <Position16>
+        <Filename Value="modulethread.pas"/>
+        <Caret Line="69" Column="55" TopLine="57"/>
+      </Position16>
+      <Position17>
+        <Filename Value="sniffthread.pas"/>
+        <Caret Line="98" Column="38" TopLine="82"/>
+      </Position17>
+      <Position18>
+        <Filename Value="mainthreadunit.pas"/>
+        <Caret Column="22" TopLine="5"/>
+      </Position18>
+      <Position19>
+        <Filename Value="mainthreadunit.pas"/>
+        <Caret Line="78" Column="16" TopLine="70"/>
+      </Position19>
+      <Position20>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="9" Column="41"/>
+      </Position20>
+      <Position21>
+        <Filename Value="AsistantUnit.pas"/>
+        <Caret Line="6" Column="11"/>
+      </Position21>
+      <Position22>
+        <Filename Value="modulethread.pas"/>
+        <Caret Line="112" Column="42" TopLine="105"/>
+      </Position22>
+      <Position23>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="9" Column="41"/>
+      </Position23>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="3">
+      <Item1>
+        <Expression Value="B"/>
+      </Item1>
+      <Item2>
+        <Expression Value="B1"/>
+      </Item2>
+      <Item3>
+        <Expression Value="B2"/>
+      </Item3>
+    </Watches>
+  </Debugging>
+</CONFIG>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/19 15:44:35.000.535,=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/02/19 15:45:48.000.817,G:\Projects\Python FrameWork\Project\Delphi\MainUnit.dfm=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2017/02/19 15:45:48.000.817,G:\Projects\Python FrameWork\Project\Delphi\MainUnit.pas=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/02/19 15:46:15.000.718,G:\Projects\Python FrameWork\Project\Delphi\PyWork.dproj=C:\Users\Mahmood_M\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/02/20 01:53:57.000.079,=G:\Projects\Python FrameWork\Project\Delphi\SynHighlighterPython.pas</Transaction>
+    <Transaction>2017/02/20 01:54:59.000.016,G:\Projects\Python FrameWork\Project\Delphi\SynHighlighterPython.pas=G:\Projects\Python FrameWork\Project\Delphi\SynHighlighterPython2.pas</Transaction>
+    <Transaction>2017/02/20 01:55:07.000.701,G:\Projects\Python FrameWork\Project\Delphi\SynHighlighterPython2.pas=G:\Projects\Python FrameWork\Project\Delphi\SynHighlighterPython.pas</Transaction>
+    <Transaction>2017/02/20 01:55:16.000.637,G:\Projects\Python FrameWork\Project\Delphi\SynHighlighterPython.pas=</Transaction>
+    <Transaction>2017/03/20 19:00:12.000.545,=G:\Projects\Python FrameWork\Project\Delphi\Unit1.pas</Transaction>
+    <Transaction>2017/03/20 19:01:07.000.620,G:\Projects\Python FrameWork\Project\Delphi\AndyDelphiPy.pas=G:\Projects\Python FrameWork\Project\Delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

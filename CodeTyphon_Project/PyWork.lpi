@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="10"/>
+    <PathDelim Value="\"/>
+    <General>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="PyWork"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <Icon Value="0"/>
+    </General>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="17">
+      <Item1>
+        <PackageName Value="pl_luicontrols"/>
+      </Item1>
+      <Item2>
+        <PackageName Value="lz_sqlite3"/>
+      </Item2>
+      <Item3>
+        <PackageName Value="pl_jujiboutils"/>
+      </Item3>
+      <Item4>
+        <PackageName Value="pl_virtualtreesextra"/>
+      </Item4>
+      <Item5>
+        <PackageName Value="pl_shapes"/>
+      </Item5>
+      <Item6>
+        <PackageName Value="lz_report"/>
+      </Item6>
+      <Item7>
+        <PackageName Value="pl_rx"/>
+      </Item7>
+      <Item8>
+        <PackageName Value="pl_fortesreport"/>
+      </Item8>
+      <Item9>
+        <PackageName Value="pl_exdatabase"/>
+      </Item9>
+      <Item10>
+        <PackageName Value="pl_excontrols"/>
+      </Item10>
+      <Item11>
+        <PackageName Value="lz_industrial"/>
+      </Item11>
+      <Item12>
+        <PackageName Value="FCL"/>
+      </Item12>
+      <Item13>
+        <PackageName Value="lz_memds"/>
+      </Item13>
+      <Item14>
+        <PackageName Value="pl_asiovst"/>
+      </Item14>
+      <Item15>
+        <PackageName Value="bs_SynEdit"/>
+      </Item15>
+      <Item16>
+        <PackageName Value="python4lazarus_pkg"/>
+      </Item16>
+      <Item17>
+        <PackageName Value="LCL"/>
+      </Item17>
+    </RequiredPackages>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="PyWork.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainUnit"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="mainthreadunit.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="dmunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DM"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="DMUnit"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="newmoduleunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="NewModuleFrm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="NewModuleUnit"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="AsistantUnit.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="modulethread.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ModuleThread"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="sniffthread.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SniffThread"/>
+      </Unit7>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <Target>
+      <Filename Value="PyWork"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir)"/>
+      <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="4">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+      <Item4>
+        <Name Value="EDLLImportError"/>
+      </Item4>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

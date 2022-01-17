@@ -1,0 +1,44 @@
+object DM: TDM
+  OnCreate = DataModuleCreate
+  OldCreateOrder = False
+  Height = 218
+  HorizontalOffset = 274
+  VerticalOffset = 250
+  Width = 325
+  object ModuleDS: TDataSource
+    DataSet = ModuleQuery
+    OnDataChange = ModuleDSDataChange
+    Left = 120
+    Top = 16
+  end
+  object Connection: TSQLite3Connection
+    Connected = False
+    LoginPrompt = False
+    DatabaseName = 'G:\Projects\Python FrameWork\Project\CodeTyphon\DB.db'
+    KeepConnection = False
+    Options = []
+    Left = 24
+    Top = 160
+  end
+  object ModuleQuery: TSQLQuery
+    PacketRecords = -1
+    FieldDefs = <>
+    Database = Connection
+    Transaction = SQLTransaction
+    SQL.Strings = (
+      'SELECT * FROM ModuleList'
+    )
+    Options = [sqoKeepOpenOnCommit, sqoAutoApplyUpdates, sqoAutoCommit]
+    Params = <>
+    Left = 224
+    Top = 16
+  end
+  object SQLTransaction: TSQLTransaction
+    Active = False
+    Action = caNone
+    Database = Connection
+    Options = []
+    Left = 224
+    Top = 88
+  end
+end
